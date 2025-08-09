@@ -8,3 +8,4 @@
 - duplicate selection       : shift + alt + ↓  or  shift + alt + ↑
 - comment selection         : ctrl + /
 - uncomment selection       : ctrl + /
+- open terminal VS code     : ctrl + ~
