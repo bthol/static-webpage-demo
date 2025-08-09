@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: aqua;
+    font-size: xx-large;
+}
+
+/* classes and IDs */
+.classname {
+    color: red;
+}
+
+#idname {
+    color: greenyellow;
+}
+
+#idname2 {
+    color: blue;
+}
